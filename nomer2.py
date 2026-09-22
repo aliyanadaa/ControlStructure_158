@@ -8,4 +8,4 @@ elif b > a and b > c:
 elif c > a and c > b:
     print("Angka ketiga adalah yang terbesar:", c)
 else:
-    print("Semua angka sama")
+    print("Semuaa angka samaa")
