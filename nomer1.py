@@ -8,4 +8,4 @@ elif persentase >= 70:
 elif persentase >= 60: 
     print("Average Performance")
 else:
-    print("yh, smgt ok, jgn nyerah")
+    print("yh, smgt ok, jgn nyerahh")
